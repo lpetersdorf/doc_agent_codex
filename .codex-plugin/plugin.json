@@ -7,8 +7,8 @@
     "email": "lukas.petersdorf@blueforte.com",
     "url": "https://github.com/lpetersdorf"
   },
-  "homepage": "https://github.com/lpetersdorf/doc_agent",
-  "repository": "https://github.com/lpetersdorf/doc_agent",
+  "homepage": "https://github.com/lpetersdorf/doc_agent_codex",
+  "repository": "https://github.com/lpetersdorf/doc_agent_codex",
   "license": "MIT",
   "keywords": [
     "confluence",
@@ -35,6 +35,6 @@
       "Recherchiere Solution Designs zu einem Thema."
     ],
     "brandColor": "#2563EB",
-    "websiteURL": "https://github.com/lpetersdorf/doc_agent"
+    "websiteURL": "https://github.com/lpetersdorf/doc_agent_codex"
   }
 }

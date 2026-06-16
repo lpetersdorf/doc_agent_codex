@@ -1,7 +1,7 @@
 {
-  "repo": "lpetersdorf/doc_agent",
+  "repo": "lpetersdorf/doc_agent_codex",
   "ref": "main",
-  "sha": "0bf44b86c3321045e9066de62701d92789e4e64b",
+  "sha": "87d70b3548891984426acfb8cd16bf80390c5881",
   "notes": "Fill `sha` after releasing (see AGENTS.md Release-Prozess).",
   "updated": "2026-06-16"
 }
