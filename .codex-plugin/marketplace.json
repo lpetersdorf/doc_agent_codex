@@ -1,5 +1,5 @@
 {
-  "repo": "lpetersdorf/doc_agent_codex",
+  "repo": "https://github.com/lpetersdorf/doc_agent_codex.git",
   "ref": "main",
   "sha": "87d70b3548891984426acfb8cd16bf80390c5881",
   "notes": "Fill `sha` after releasing (see AGENTS.md Release-Prozess).",
