@@ -1,7 +1,7 @@
 {
   "repo": "https://github.com/lpetersdorf/doc_agent_codex.git",
   "ref": "main",
-  "sha": "0a8b15af0179b7715d8975e28e8aacb184e2a0d6",
+  "sha": "e45f9553e4f02c46de376dbca53a295e88ba0a29",
   "notes": "Fill `sha` after releasing (see AGENTS.md Release-Prozess).",
   "updated": "2026-06-16"
 }
