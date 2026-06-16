@@ -1,0 +1,40 @@
+{
+  "name": "solution-agent",
+  "version": "0.2.0",
+  "description": "Documentation & analysis orchestrator - dokumentiert Projekte nach Confluence und recherchiert Solution Designs",
+  "author": {
+    "name": "Lukas Petersdorf",
+    "email": "lukas.petersdorf@blueforte.com",
+    "url": "https://github.com/lpetersdorf"
+  },
+  "homepage": "https://github.com/lpetersdorf/doc_agent",
+  "repository": "https://github.com/lpetersdorf/doc_agent",
+  "license": "MIT",
+  "keywords": [
+    "confluence",
+    "documentation",
+    "architecture",
+    "solution-design",
+    "analysis"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Solution Agent",
+    "shortDescription": "Dokumentiert Projekte in Confluence und recherchiert Solution Designs.",
+    "longDescription": "Solution Agent liefert Codex-Skills fuer Projektanalyse, Dokumentationsstatus und Confluence-Sync. Das Repo bleibt parallel als Claude-Code-Plugin nutzbar.",
+    "developerName": "Lukas Petersdorf",
+    "category": "Productivity",
+    "capabilities": [
+      "Documentation",
+      "Research",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Dokumentiere dieses Projekt fuer Confluence.",
+      "Zeig mir den Dokumentationsstatus.",
+      "Recherchiere Solution Designs zu einem Thema."
+    ],
+    "brandColor": "#2563EB",
+    "websiteURL": "https://github.com/lpetersdorf/doc_agent"
+  }
+}
